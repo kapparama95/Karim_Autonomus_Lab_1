@@ -1,0 +1,2 @@
+some of those codes use the test set for the validation, in order to have a better validation graph, when actually running the test to get the
+accuracy of the model I didn't do that in order to have an make sure that the result was unbiased.
